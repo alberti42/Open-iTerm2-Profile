@@ -47,7 +47,7 @@ Simply double-click the `Open iTerm2 Profile.lbaction` file. This will install t
 
 If you find this action useful, consider supporting its development with a donation.
 
-[![Buy Me a Coffee](Images/buy_me_coffee.png)](https://buymeacoffee.com/alberti)
+[<img src="Images/buy_me_coffee.png" width=300 alt="Buy Me a Coffee QR Code"/>](https://buymeacoffee.com/alberti)
 
 ## Author
 
