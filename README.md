@@ -1,6 +1,6 @@
 # Open iTerm2 Profile for LaunchBar
 
-This repository provides an action for [LaunchBar](https://www.obdev.at/products/launchbar/actions.html) that allows users to quickly open a terminal session using any available iTerm2 profile. The action lists all configured profiles in iTerm2, and selecting one from the dropdown menu in LaunchBar opens a new tab with the chosen profile in an existing iTerm2 window. If no iTerm2 window is open, a new window is launched.
+This repository provides an action for [LaunchBar](https://www.obdev.at/products/launchbar/actions.html) that allows users to quickly open a terminal session using any available [iTerm2](https://iterm2.com/) profile. The action lists all configured profiles in iTerm2, and selecting one from the dropdown menu in LaunchBar opens a new tab with the chosen profile in an existing iTerm2 window. If no iTerm2 window is open, a new window is launched.
 
 ![Screenshot](Images/iTerm2_profiles_list_screenshot.jpg)
 
